@@ -11,7 +11,7 @@ class Scraper
   end
   
   def get_courses
-    doc.css("<a href="/courses">Courses</a>")
+    
   end
   
   def make_courses
